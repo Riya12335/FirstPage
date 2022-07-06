@@ -24,7 +24,7 @@ body{
 .bottom-cloud{
   position:absolute;
   left:100px;
-  bottom:1000px;
+  top:100px;
 }
 .top-cloud{
   position:absolute;
